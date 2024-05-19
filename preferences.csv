@@ -1,5 +1,4 @@
 Person,PreferenceType,Color,Brightness,Activity
-Mark,Prefers,Light Blue,150,Meeting
 Mark,Likes,Teal,85,Creating slides
 Mark,Prefers,Light Green,120,Doing a presentation
 Emily,Prefers,Chartreuse,200,Doing a presentation
@@ -17,3 +16,4 @@ Syrine,Wants,Steel Blue,220,Reading at the desk
 Syrine,Wants,Pale Turquoise,145,Raining outside
 Syrine,Wants,Dark Cyan,150,Taking a nap
 Syrine,Wants,Light Coral,200,Taking a nap at the meeting table
+Mark,Prefers,Light Blue,150,Meeting
